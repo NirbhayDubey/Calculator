@@ -1,4 +1,4 @@
-# Calculator
+#A Very Simple Calculator Application For Windows..
 This is a GUI based calculator devoloped in VB.NET (Visual Studio 2010) by Nirbhay Dubey
 Easy to use 
 step 1:
