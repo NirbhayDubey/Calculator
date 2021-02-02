@@ -12,4 +12,3 @@ Click Equals(=) button
 
 The answer appears in your operation indicating box with fill color 
 The (.exe) file Name Calc.exe is in this location :Calculator VB.NET\bin\Debug\Calc.exe
-Run and Enjoy..
